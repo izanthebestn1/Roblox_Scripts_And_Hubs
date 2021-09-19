@@ -1,4 +1,4 @@
--- SuperLand Hub By Hack_O2442
+-- SuperLand Hub By izanthebestn1
 
 local SuperLandHub = Instance.new("ScreenGui")
 local Frame = Instance.new("Frame")
@@ -16,7 +16,7 @@ local Open = Instance.new("TextButton")
 --Properties:
  
 local message = Instance.new("Message",workspace)
-message.Text = "Loaded! (Script By Hack_O2442)"
+message.Text = "Loaded! (Script By izanthebestn1)"
 wait(2.5)
 message:Destroy()
  
